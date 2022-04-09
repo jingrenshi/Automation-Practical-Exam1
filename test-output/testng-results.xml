@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19565" started-at="2022-04-05T18:23:21 CDT" finished-at="2022-04-05T18:23:41 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19565" started-at="2022-04-05T18:23:21 CDT" finished-at="2022-04-05T18:23:41 CDT">
+      <class name="test.Remove_Single_Item_Test2">
+        <test-method status="PASS" signature="validateRemoveSingleItem()[pri:0, instance:test.Remove_Single_Item_Test2@4b1c1ea0]" name="validateRemoveSingleItem" duration-ms="19459" started-at="2022-04-05T18:23:22 CDT" finished-at="2022-04-05T18:23:41 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRemoveSingleItem -->
+      </class> <!-- test.Remove_Single_Item_Test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
