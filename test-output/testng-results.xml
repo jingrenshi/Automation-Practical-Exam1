@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19565" started-at="2022-04-05T18:23:21 CDT" finished-at="2022-04-05T18:23:41 CDT">
+  <suite name="Default suite" duration-ms="3866" started-at="2022-05-18T15:08:26 CDT" finished-at="2022-05-18T15:08:30 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19565" started-at="2022-04-05T18:23:21 CDT" finished-at="2022-04-05T18:23:41 CDT">
-      <class name="test.Remove_Single_Item_Test2">
-        <test-method status="PASS" signature="validateRemoveSingleItem()[pri:0, instance:test.Remove_Single_Item_Test2@4b1c1ea0]" name="validateRemoveSingleItem" duration-ms="19459" started-at="2022-04-05T18:23:22 CDT" finished-at="2022-04-05T18:23:41 CDT">
+    <test name="Default test" duration-ms="3866" started-at="2022-05-18T15:08:26 CDT" finished-at="2022-05-18T15:08:30 CDT">
+      <class name="test.Remove_All_Item_Test3">
+        <test-method status="PASS" signature="validateAllItemsBeenRemoved()[pri:0, instance:test.Remove_All_Item_Test3@33f88ab]" name="validateAllItemsBeenRemoved" duration-ms="3831" started-at="2022-05-18T15:08:27 CDT" finished-at="2022-05-18T15:08:30 CDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validateRemoveSingleItem -->
-      </class> <!-- test.Remove_Single_Item_Test2 -->
+        </test-method> <!-- validateAllItemsBeenRemoved -->
+      </class> <!-- test.Remove_All_Item_Test3 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
